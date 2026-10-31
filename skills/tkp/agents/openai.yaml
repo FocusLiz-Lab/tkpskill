@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project工具箱"
+  short_description: "The Knowledge Project expert workflow router"
+  default_prompt: "Use $tkp to route and solve my 决策、思维模型与判断复盘 problem."

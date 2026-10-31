@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project 更新"
+  short_description: "更新整套Skill和原子库"
+  default_prompt: "Use $tkp-update to 检查并更新整套Skill和原子库。"

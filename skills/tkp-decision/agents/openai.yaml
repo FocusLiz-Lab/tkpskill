@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 决策备忘录"
+  short_description: "Build a 决策备忘录 using expert methodology"
+  default_prompt: "Use $tkp-decision to build a practical 决策备忘录 for my situation."

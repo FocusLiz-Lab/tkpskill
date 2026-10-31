@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $tkp-ima to retrieve IMA evidence and continue with the right The Knowledge Project workflow."

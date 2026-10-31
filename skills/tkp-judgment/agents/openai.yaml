@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 判断与盲区检查"
+  short_description: "Build a 判断与盲区检查 using expert methodology"
+  default_prompt: "Use $tkp-judgment to build a practical 判断与盲区检查 for my situation."

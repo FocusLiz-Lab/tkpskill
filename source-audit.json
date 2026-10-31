@@ -1,0 +1,246 @@
+{
+  "prefix": "tkp",
+  "repository": "tkpskill",
+  "creator": "tkppodcast",
+  "source_files": 337,
+  "unique_sources": 202,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 106,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/260331 顶尖校长：别再送孩子去学校了 - Joe Liemandt.md",
+          "title": "260331 顶尖校长：别再送孩子去学校了 - Joe Liemandt",
+          "url": "https://www.youtube.com/watch?v=BRcVDhOkij4",
+          "date": "2026-03-31",
+          "sha256": "7a84b01d831d2476636031731fea17905bd97c7052b4a74ec78379b54c8bbcc8",
+          "chars": 48464,
+          "excerpt": "从头开始重写，忽略我和你经历过的传统模式——每天在课堂上待6小时、做作业等等，然后根据孩子们真正需要的技能、他们应该如何度过一天、以及如何实现这些目标，彻底重构教育体系。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144.md",
+          "title": "220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144",
+          "url": "https://www.youtube.com/watch?v=UbXIugEQQsI",
+          "date": "2022-08-09",
+          "sha256": "19f19c0db3058eefe20eeb1eafe9556d1bc0439f7937fdb5b759136c7a5fa892",
+          "chars": 24314,
+          "excerpt": "如果你花时间进行反思，那么反思就是我们学习边缘案例（edge cases）的方式，它帮助我们将知识编码到大脑中，让我们更清楚在何种场景下该知识适用，何种场景下不适用。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/221108 赢得人生游戏的规则 - 亚当·罗宾逊 - 知识项目播客第47期.md",
+          "title": "221108 赢得人生游戏的规则 - 亚当·罗宾逊 - 知识项目播客第47期",
+          "url": "https://www.youtube.com/watch?v=7BfKEkEkKlk",
+          "date": "2022-11-08",
+          "sha256": "8bc7f6701a8ea2992df4902e28501fffec67ae1006dae4d93b9b4d40a17fe12c",
+          "chars": 35860,
+          "excerpt": "所以，蒂姆·费里斯（Tim Ferriss）、我本人、乔希·维茨金（Josh Waitzkin）和拉米特·塞西（Ramit Sethi）在 92 街 Y 中心进行了一场现场播客录制。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 104,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/221213 设定与实现目标的艺术 - 艾米丽·巴尔切蒂斯 - 知识项目播客.md",
+          "title": "221213 设定与实现目标的艺术 - 艾米丽·巴尔切蒂斯 - 知识项目播客",
+          "url": "https://www.youtube.com/watch?v=bYAe0zXt8xg",
+          "date": "2022-12-13",
+          "sha256": "fe46e75c8ceb1dc90caccce1b639104bf296439696d9388339cd8b19c735d2b5",
+          "chars": 24471,
+          "excerpt": "她的研究发现，对于那些致力于该目标的人来说，如果在半程时看向终点线，看向当前所在位置与期望目标之间的差距，他们会获得一股动力激增，表现提升，并更积极地参与与目标相关的活动。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/260414 让你的目标更大！.md",
+          "title": "260414 让你的目标更大！",
+          "url": "https://www.youtube.com/watch?v=XCO7mqK7hs0",
+          "date": "2026-04-14",
+          "sha256": "81c705107cc9922d43480be444a4649dbebdbfc6aa8129e7185c468c89440988",
+          "chars": 30501,
+          "excerpt": "我认为，第一点是拥有一个能让你实时获取数据的平台；第二点是明确你每天监控的内容，这必须与你的重大战略目标保持一致，从而随着时间的推移为你创造巨大的股东价值；第三是从行动计划的角度管理输入变量，明确谁负责每一项行动，从而真正改善我们向正确方向推进业务的方式。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/241015 他如何在5年内从0做到8位数收入（没人教过这些）.md",
+          "title": "241015 他如何在5年内从0做到8位数收入（没人教过这些）",
+          "url": "https://www.youtube.com/watch?v=Irbt1eM5Olk",
+          "date": "2024-10-15",
+          "sha256": "95bfee4876cfa2ff4da30b1b3e2a3f5a1fbbdf6c4435ca6cd6546b1d15bc8f43",
+          "chars": 32441,
+          "excerpt": "今年我有三个目标：一是让业务重回正轨，实现繁荣与乐趣并重；二是恢复健康，让我重拾自信与灵感，全身心地投入其中；三是更个人化的目标——我有了两个儿子，其中一个今年出生。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "decision": {
+      "matching_sources": 98,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144.md",
+          "title": "220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144",
+          "url": "https://www.youtube.com/watch?v=UbXIugEQQsI",
+          "date": "2022-08-09",
+          "sha256": "19f19c0db3058eefe20eeb1eafe9556d1bc0439f7937fdb5b759136c7a5fa892",
+          "chars": 24314,
+          "excerpt": "这里有个有趣的实验，我建议所有在团队环境中做决策的人都试试：当你面临一个需要做出决定的时刻，或者召开决策会议时，让在场的每个人在纸上写下他们认为这个决定所要解决的问题，然后对比一下，看看这些“问题陈述”之间差异有多大、方差有多高。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/191005 吉姆·柯林斯：从优秀到卓越 — 知识项目 #67.md",
+          "title": "191005 吉姆·柯林斯：从优秀到卓越 — 知识项目 #67",
+          "url": "https://www.youtube.com/watch?v=7xIrgD6NxHI",
+          "date": "2019-10-05",
+          "sha256": "fb3f548efdc6877bd698963d0f13ad66c90dee3b4a8457ee5da20b0a8d397e97",
+          "chars": 44247,
+          "excerpt": "他是《基业长青》（Built to Last）、《从优秀到卓越》（Good to Great）、《巨人的陨落》（How the Mighty Fall）、《选择 greatness》（Great by Choice）和《转动飞轮》（Turning the Flywheel）等书籍的作者或合著者。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/210504 How to Decide When You Don't Have All the Facts - Good to Great Author Jim Collins (Audio).md",
+          "title": "210504 How to Decide When You Don't Have All the Facts - Good to Great Author Jim Collins (Audio)",
+          "url": "https://www.youtube.com/watch?v=-Dot-Uf1dkE",
+          "date": "2021-05-04",
+          "sha256": "b3583feb6e90b3a591fe96cf1999dbc4deeea0b23137afe29e65a4dd04a47be4",
+          "chars": 103303,
+          "excerpt": "Okay, so, we have all the decision points about how Intel made decisions from its inception and so forth, but this one really was a fascinating kind of lens where you can we can maybe all relate to the decision as opposed to knowing how all microprocessors work or memory chips work, and so on and so forth."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "mental-models": {
+      "matching_sources": 98,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/260609 改变你思维方式的思维模型 - 比尔·格利-译文.md",
+          "title": "260609 改变你思维方式的思维模型 - 比尔·格利-译文",
+          "url": "https://www.youtube.com/watch?v=yBBhd0-Os74",
+          "date": "2026-06-09",
+          "sha256": "f349985c709308d7dbcbc4fd10449144ed5c8ccfcb30ff5f0e456a3864af268f",
+          "chars": 19276,
+          "excerpt": "如果五年前有人告诉我，这些 Max Seven 模型会值 3 万亿美元，然后反过来将自由现金流从每年 500 亿增加到 1000 亿，再降到接近零，因为它们要把钱全部投入资本支出（capex），我会说绝对不可能。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/220322 Andrew Huberman- Don't Drink Coffee Right Away...(Do This Instead) And More Ways to Live Better.md",
+          "title": "220322 Andrew Huberman- Don't Drink Coffee Right Away...(Do This Instead) And More Ways to Live Better",
+          "url": "https://www.youtube.com/watch?v=F_WmxUXbKZc",
+          "date": "2022-03-22",
+          "sha256": "db7d0a5ab17e926eb27c9424c9336a2ea96cae881c93376c5e7171ec3b6cdc62",
+          "chars": 105515,
+          "excerpt": "m until your your lights out falling asleep in bed yeah so i i generally go to sleep somewhere between 10 and 11 pm although lately i've been going to sleep much earlier um because i've been finishing my last meal sometime right around 6 30 seven and that's not because i'm on some extravagant um nutritional routine i've just started getting up earlier for social reasons my partner she goes to bed really early and so just for coordinating schedules it just um it just makes sense um but i think most people go to bed somewhere between 10 and 11 p."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 商业领导与投资/260422 OpenAI联合创始人：“我不得不辞职”.md",
+          "title": "260422 OpenAI联合创始人：“我不得不辞职”",
+          "url": "https://www.youtube.com/watch?v=6JoUcQ1qmAc",
+          "date": "2026-04-22",
+          "sha256": "881eb9fd6d8980eccd53f5a6c7c957e7dbddc8498f953b1aa6c4768b21830661",
+          "chars": 23243,
+          "excerpt": "一是为了防范蒸馏；其次，在某些方面更重要的原因是，我们在最初开发推理范式时有一个洞察：它提供了一种我们未曾预料的可解释性机制，因为你真的可以阅读模型的“想法”。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "judgment": {
+      "matching_sources": 72,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/191012 丹尼尔·卡尼曼 - 知识项目 #68.md",
+          "title": "191012 丹尼尔·卡尼曼 - 知识项目 #68",
+          "url": "https://www.youtube.com/watch?v=-10cairWi10",
+          "date": "2019-10-12",
+          "sha256": "0fda04a50019027d450d3d46f894a65f99074937d2dde0d31fc5b727712d2b1d",
+          "chars": 16788,
+          "excerpt": "评估这些解释的质量，就是看它们是否合乎逻辑、是否使用了证据、是否利用了所有可用证据、是否受到主观愿望的强烈影响，以及结论是否在所谓的“做出判断”之前就已经形成了。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144.md",
+          "title": "220809 做出更好决策的洞察 - 加里·克莱因 - 知识项目 144",
+          "url": "https://www.youtube.com/watch?v=UbXIugEQQsI",
+          "date": "2022-08-09",
+          "sha256": "19f19c0db3058eefe20eeb1eafe9556d1bc0439f7937fdb5b759136c7a5fa892",
+          "chars": 24314,
+          "excerpt": "因此，尽管我发现我所研究的样本中，大多数洞察如果没有经验就不会产生——毕竟达尔文不是坐在书房里空想出来的，他是在小猎犬号上，观察各种物种，研究变异，积累他的经验基础。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 商业领导与投资/240227 The Marketing Expert- Sell Anything with this Trick - April Dunford.md",
+          "title": "240227 The Marketing Expert- Sell Anything with this Trick - April Dunford",
+          "url": "https://www.youtube.com/watch?v=vM_1G1LCotU",
+          "date": "2024-02-27",
+          "sha256": "1c8777dd6a515b9f60d4e892d84b552d266c0c0e23809d3b03bc4213fa56dda7",
+          "chars": 73184,
+          "excerpt": "It's the same product, but the assumptions about that, the competitors are different, your value is different, the assumptions that customers have about that product are different because I've placed it in a different context."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "reflection": {
+      "matching_sources": 48,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/220927 Ray Dalio- Principles for a Life Well Lived - Knowledge Project Podcast Archive.md",
+          "title": "220927 Ray Dalio- Principles for a Life Well Lived - Knowledge Project Podcast Archive",
+          "url": "https://www.youtube.com/watch?v=pl2_6KP2HpY",
+          "date": "2022-09-27",
+          "sha256": "26f5fcab147ad063311fd9b70e7dd86325e0867ddd1d6098380dc9993036b32d",
+          "chars": 72921,
+          "excerpt": "e as being one of the best gifts you can kind of give somebody um do you tell me about that walk me through why you think that's the case well because the most important thing I can give anybody is strength right that feedback that that critical feedback that uh that toughness to let you strive to let you make mistakes I talk in the book about how it's important to make mistakes and how um making a mistake is not a problem that um not learning from mistakes is a problem so that's difficult skin"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/240123 Tom Gayner- Lessons That Every Investor Needs to Learn (Audio).md",
+          "title": "240123 Tom Gayner- Lessons That Every Investor Needs to Learn (Audio)",
+          "url": "https://www.youtube.com/watch?v=vRXW9FUxfjU",
+          "date": "2024-01-23",
+          "sha256": "a2e3ebbf1f1f532795ee2e1096ecfcbf85ebb98abd674fe889a07bd45aabe63d",
+          "chars": 115201,
+          "excerpt": "curfew nothing bad is going to happen I mean you're you're you're done and as interest rates come down you can sort of think of that as as curfew getting later and later so if the curfew goes you know from 14 down to 1200 maybe that's a 7 p."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 健康心理与人生/220413 Naval - This is The Mistake People Make With Happiness.md",
+          "title": "220413 Naval - This is The Mistake People Make With Happiness",
+          "url": "https://www.youtube.com/watch?v=vKkDDylY6XM",
+          "date": "2022-04-13",
+          "sha256": "e0b7c6cbe88b886da6eca21d77c5a5c36b48fb41be3386d0c68ff35ad08a6821",
+          "chars": 5925,
+          "excerpt": "i i think people believe mistakenly that happiness is about positive thoughts and positive actions uh but the more i read the more i've learned the more of experience because i verify this for myself every positive thought essentially holds within a negative thought it's all it's all duality and polarity so if i say i'm happy that means that i was sad at some point if i say uh he's attractive then that means that somebody else is unattractive so every positive thought even has a seed of a nega"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "case-study": {
+      "matching_sources": 63,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/240123 Tom Gayner- Lessons That Every Investor Needs to Learn (Audio).md",
+          "title": "240123 Tom Gayner- Lessons That Every Investor Needs to Learn (Audio)",
+          "url": "https://www.youtube.com/watch?v=vRXW9FUxfjU",
+          "date": "2024-01-23",
+          "sha256": "a2e3ebbf1f1f532795ee2e1096ecfcbf85ebb98abd674fe889a07bd45aabe63d",
+          "chars": 115201,
+          "excerpt": "curfew nothing bad is going to happen I mean you're you're you're done and as interest rates come down you can sort of think of that as as curfew getting later and later so if the curfew goes you know from 14 down to 1200 maybe that's a 7 p."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人物访谈与精选/251111 Lessons from Building Panera, CAVA, and Au Bon Pain - Ron Shaich.md",
+          "title": "251111 Lessons from Building Panera, CAVA, and Au Bon Pain - Ron Shaich",
+          "url": "https://www.youtube.com/watch?v=h1fIVmf7uaw",
+          "date": "2025-11-11",
+          "sha256": "975f7e9a40aa2f1457da9e65266851615bc3a0fc34d3f6b731fa3dd57cc2743d",
+          "chars": 93566,
+          "excerpt": "I look backwards and there are certainly lessons I've learned and things I might do differently, but taken as a whole, I couldn't be more at peace and more pleased."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 决策思维与学习/220913 Patrick Collison- Philosophies for Running Stripe, Hiring, Decision Making, and Reading.md",
+          "title": "220913 Patrick Collison- Philosophies for Running Stripe, Hiring, Decision Making, and Reading",
+          "url": "https://www.youtube.com/watch?v=8MuNDps3m6A",
+          "date": "2022-09-13",
+          "sha256": "e79c13cbf7f4bd2a861b0f7a7a5167fefd59748bdb80477cdc04ba15b6d6843a",
+          "chars": 95468,
+          "excerpt": "com but if they want to subject themselves to more of the particular detritus that i post and they can head to my twitter account which is just patrick c thank you so much thank you you"
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

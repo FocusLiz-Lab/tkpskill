@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 决策复盘"
+  short_description: "Build a 决策复盘 using expert methodology"
+  default_prompt: "Use $tkp-reflection to build a practical 决策复盘 for my situation."

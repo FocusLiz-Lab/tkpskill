@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 行动路线"
+  short_description: "Build a 行动路线 using expert methodology"
+  default_prompt: "Use $tkp-roadmap to build a practical 行动路线 for my situation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 思维模型应用"
+  short_description: "Build a 思维模型应用 using expert methodology"
+  default_prompt: "Use $tkp-mental-models to build a practical 思维模型应用 for my situation."

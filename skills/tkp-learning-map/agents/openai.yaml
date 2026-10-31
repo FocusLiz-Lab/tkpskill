@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 学习地图"
+  short_description: "Build a 学习地图 using expert methodology"
+  default_prompt: "Use $tkp-learning-map to build a practical 学习地图 for my situation."

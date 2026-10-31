@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Knowledge Project · 访谈决策案例"
+  short_description: "Build a 访谈决策案例 using expert methodology"
+  default_prompt: "Use $tkp-case-study to build a practical 访谈决策案例 for my situation."
